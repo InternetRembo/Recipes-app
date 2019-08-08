@@ -3,7 +3,7 @@ import { TouchableHighlight, Image, } from "react-native";
 import PropTypes from "prop-types";
 import styles from "./styles";
 
-//test
+//test2
 
 export default function BackButton(props) {
   return (
