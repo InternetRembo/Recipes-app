@@ -3,6 +3,8 @@ import { TouchableHighlight, Image, } from "react-native";
 import PropTypes from "prop-types";
 import styles from "./styles";
 
+//test
+
 export default function BackButton(props) {
   return (
     <TouchableHighlight onPress={props.onPress} style={styles.btnContainer}>
